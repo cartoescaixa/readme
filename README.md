@@ -18,7 +18,7 @@
 
 ## 📊 Status do GitHub
 
-<img src="https://raw.githubusercontent.com/MTSZ7/MTSZ7/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/cartoescaixa/cartoescaixa/blob/output/github-contribution-grid-snake.svg)
 
 ## 🎶 PlayList
 
