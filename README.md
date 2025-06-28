@@ -1,5 +1,3 @@
-# Olá, Eu sou Matheus 👋
-
 ## 🛠️ Tecnologias
 - Aprendizado:
 
