@@ -1,8 +1,7 @@
-## 🛠️ Tecnologias
-- Aprendizado:
+## 🛠️ Languages and Tools
 
-![HTML](https://img.icons8.com/?size=80&id=21278&format=png&color=000000) ![CSS](https://img.icons8.com/?size=80&id=20909&format=png&color=000000) 
-![JavaScript](https://img.icons8.com/?size=80&id=108784&format=png&color=000000)
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> </p>
+
 
 ## 🌟 Projetos em Destaque
 - [Projeto 1](https://github.com/MTSZ7/szz7/tree/main/terror%20da%20net) - Site HTML-CSS.
