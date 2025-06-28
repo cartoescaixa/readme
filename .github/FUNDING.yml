@@ -1,0 +1,21 @@
+# .github/FUNDING.yml
+# Este arquivo configura os links de financiamento exibidos no seu repositório
+
+# Plataformas de financiamento disponíveis no GitHub:
+github: [Cartoescaixa]  # Substitua pelo seu nome de usuário do GitHub para GitHub Sponsors
+NUBANK: 71pago
+open_collective: # Nome da sua organização no Open Collective (opcional)
+ko_fi: # Seu nome de usuário do Ko-fi (opcional)
+tidelift: # Nome do seu pacote no Tidelift (opcional)
+community_bridge: # ID do seu projeto no Community Bridge (opcional)
+liberapay: # Seu nome de usuário do Liberapay (opcional)
+issuehunt: # Seu nome de usuário do IssueHunt (opcional)
+otechie: # Seu nome de usuário do Otechie (opcional)
+custom: # URL personalizada para doações (opcional)
+
+# Exemplo completo:
+# github: cartoescaixa
+# patreon: cartoescaixa
+# open_collective: cartoescaixa
+# ko_fi: cartoescaixa
+# custom: ["https://www.patreon/cartoescaixa", "https://apoia.se/cartoescaixa"]
